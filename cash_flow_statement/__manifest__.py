@@ -31,7 +31,7 @@
     'website': "https://www.cybrosys.com",
     'category': 'Accounting',
     'depends': [
-        'account', 'accounting_pdf_reports'
+        'account',
     ],
     'data': [
         'security/ir.model.access.csv',
