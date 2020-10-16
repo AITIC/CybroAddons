@@ -21,7 +21,7 @@
 
 {
     'name': 'POS Serial Number Validator',
-    'version': '13.0.1.0.0',
+    'version': '13.0.1.0.1',
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
     'website': 'https://www.cybrosys.com',
@@ -32,7 +32,7 @@
     'data': [
         'static/src/xml/pos_templates.xml',
     ],
-    'images': ['static/description/banner.jpg'],
+    'images': ['static/description/banner.png'],
     'license': 'LGPL-3',
     'installable': True,
     'auto_install': False,
